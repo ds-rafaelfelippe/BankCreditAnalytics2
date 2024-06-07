@@ -4,7 +4,7 @@ Este é um projeto de classificação.
 
 O conjunto de dados utilizado está disponível [neste link](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients). 
 
-Para visualizar todo o código Python acesse [meu portfólio](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients). 
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_BankCreditAnalytics.html).
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
